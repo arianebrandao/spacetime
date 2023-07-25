@@ -1,5 +1,6 @@
 import './globals.css'
 import { ReactNode } from 'react'
+// eslint-disable-next-line camelcase
 import { Roboto_Flex, Bai_Jamjuree } from 'next/font/google'
 
 const roboto = Roboto_Flex({ subsets: ['latin'], variable: '--font-roboto' })
